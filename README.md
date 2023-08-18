@@ -45,14 +45,14 @@ To explore and run any of these projects on your local machine, follow these ste
 
 1. Clone this repository to your local machine using the following command:
    ```
-   git clone https://github.com/your-username/windows-forms-projects.git
+   git clone https://github.com/khuramgill/OOP-Final-Projects.git
    ```
 
 2. Navigate to the project directory of your choice using the command line:
    ```
-   cd cars-management-system
+   cd Cars-Management System
    ```
-   Replace `cars-management-system` with the name of the project you want to run.
+   Replace `Cars Management System` with the name of the project you want to run.
 
 3. Open the project solution file (`*.sln`) using Visual Studio or your preferred C# development environment.
 
