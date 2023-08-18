@@ -50,7 +50,7 @@ To explore and run any of these projects on your local machine, follow these ste
 
 2. Navigate to the project directory of your choice using the command line:
    ```
-   cd Cars-Management System
+   cd Cars Management System
    ```
    Replace `Cars Management System` with the name of the project you want to run.
 
