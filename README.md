@@ -1,6 +1,6 @@
 # Windows Forms Projects Repository
 
-Welcome to the Windows Forms Projects Repository! This repository contains three different projects, all developed using the Pure Concepts of Object-Oriented Programming (OOP) in C#.
+Welcome to the Windows Forms Projects Repository! This repository contains three different projects, all developed using the Pure Concepts of Object-Oriented Programming (OOP) in C#. 
 
 ## Projects
 
