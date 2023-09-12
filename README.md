@@ -64,4 +64,4 @@ Feel free to contribute to these projects by creating pull requests. If you have
 
 ## License
 
-Enjoy exploring and learning from these OOP-focused Windows Forms projects! If you have any questions or need assistance, don't hesitate to reach out to the repository maintainers.
+Enjoy exploring and learning from these OOP-focused Windows Forms projects! If you have any questions or need assistance, don't hesitate to reach out to the repository maintainers. feel free to ask about anything
